@@ -4,9 +4,9 @@ WeatherApp is an Android application that helps you to get the forecast and temp
 This app is based  on  this free API: https://openweathermap.org/api.
 
 # Features
-*Kotlin
-*MVVM and Clean architure
-*Retrofit
-*Coroutines
-*Location 
-*Koin as dependency injection library
+* Kotlin
+* MVVM and Clean architure
+* Retrofit
+* Coroutines
+* Location 
+* Koin library for dependency injection 
