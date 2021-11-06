@@ -1,14 +1,12 @@
 # WeatherApp
-Simple Weahter App
-WeatherApp is an Android application that helps you to get the forecast and temperature for specific locations , and Current location 
-This app is based  on  this free API: https://openweathermap.org/api.
+Android application that helps you to get the forecast and temperature for a specific locations, and current location.  App is based on [openweathermap API](https://openweathermap.org/api).
 
-![1](https://user-images.githubusercontent.com/38116813/140585283-95b474d4-0df0-42ec-b8fd-5437d09c8f13.jpg)
+<div> <img a = "https://user-images.githubusercontent.com/38116813/140585283-95b474d4-0df0-42ec-b8fd-5437d09c8f13.jpg" width= "50%"></div>
 
-# Features
+# Tools & Langauges used:
 * Kotlin
-* MVVM and Clean architure
+* MVVM and Clean architecture
 * Retrofit
 * Coroutines
-* Location 
-* Koin library for dependency injection 
+* Location API 
+* Koin (dependency injection )
